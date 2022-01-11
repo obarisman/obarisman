@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ömer Barışman
-- 👀 I’m interested in ...
+- 👀 I’m interested in IT dünyası 
 - 🌱 I’m currently learning ...
 
 <!---
